@@ -1,0 +1,8 @@
+MIDlet-1: P3, P3.png, MyApp
+MIDlet-Jar-Size: 1432
+MIDlet-Jar-URL: P3.jar
+MIDlet-Name: P3
+MIDlet-Vendor: Unknown
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
